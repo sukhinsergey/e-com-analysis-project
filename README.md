@@ -1,4 +1,4 @@
-To analyze past purchases and answer the following questions:
+Analysis of past purchases to answer the following questions:
 
 1 - How many users have made a purchase only once?
 
