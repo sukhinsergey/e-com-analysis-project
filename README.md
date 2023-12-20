@@ -1,13 +1,19 @@
-### Analysis of past purchases to answer the following questions:
+### Project goal:
+Conduct analysis of e-commerce sales and explore customer patterns.
 
-1 - How many users have made a purchase only once?
+### Steps to achieve the goal:
+-data upload 
 
-2 - How many orders on average per month are not delivered for various reasons (provide a breakdown of reasons)?
+-data exploration and cleaning
 
-3 - Determine which day of the week each product is most frequently purchased.
+-determine key figures to track
 
-4 - Calculate the average number of purchases per week for each user (monthly).
+-conduct cohort (3rd month retention) and RFM analysis
 
-5 - Identify the cohort with the highest 3rd-month retention from January to December.
+### Stack:
+Python, pandas, plotly, matplotlib
 
-6 - For quality audience analysis, we'll use RFM segmentation of users in Python to assess the audience effectively.
+
+### Results:
+Our customers are segmented in active/sleeping customers, we’ve determined that there is a number of dormant “whales” that we could communicate to return.
+
